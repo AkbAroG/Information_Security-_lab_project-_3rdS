@@ -64,6 +64,7 @@ export default function Home() {
           Information Security <span style={{ background:'linear-gradient(90deg,#00ff88,#23b7ff)', WebkitBackgroundClip:'text', backgroundClip:'text', WebkitTextFillColor:'transparent' }}>Demo Lab</span>
         </h1>
         <p style={{ maxWidth:'58ch', color:'#96a2c0', fontSize:'1.05rem', lineHeight:1.7 }}>Learn cybersecurity through safe simulations</p>
+          <p style={{ maxWidth:'58ch', color:'#96a2c0', fontSize:'1.05rem', lineHeight:1.7 }}>Akbar Ali ,M.Mohsin , Frahan Adil, Aman Khan</p>
       </section>
 
       <section style={{ display:'grid', gridTemplateColumns:'repeat(12,1fr)', gap:'1.25rem', marginTop:'2rem' }} aria-label="Training labs">
